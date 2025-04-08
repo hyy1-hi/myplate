@@ -9,5 +9,3 @@ streamlit run app.py
 
 Database: Postgrel\
 LLM model: Gemini-2.0-flash-lite
-
-[Watch the Demo Video](link/to/your/video)
